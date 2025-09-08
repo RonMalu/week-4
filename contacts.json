@@ -1,0 +1,27 @@
+[
+  {
+    "name": "person1",
+    "number": "cont1",
+    "village": "res1"
+  },
+  {
+    "name": "person1",
+    "number": "cont2",
+    "village": "res2"
+  },
+  {
+    "name": "person3",
+    "number": "cont3",
+    "village": "res3"
+  },
+  {
+    "name": "Gram",
+    "phone": "789",
+    "email": "to@hotmail.com"
+  },
+  {
+    "name": "George",
+    "phone": "57689",
+    "email": "b@gmail.com"
+  }
+]
